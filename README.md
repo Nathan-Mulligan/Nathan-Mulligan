@@ -36,7 +36,7 @@ More at [agencyastro.com](https://agencyastro.com).
 
 ## Activity
 
-Including private repos, from my own dashboard (October 2026):
+Including private repos, from my own dashboard (October 2026). Most of these commits are made by my agents, and every change is reviewed before it merges.
 
 ![Contributions including private repos](assets/contributions-including-private.png)
 
