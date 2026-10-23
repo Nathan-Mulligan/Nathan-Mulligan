@@ -1,26 +1,68 @@
-# Hey, I'm Nathan
+# Hey, I'm Nathan 👋
 
-I'm a marketer and builder from Townsville, up in North Queensland.
+📍 Townsville, North Queensland · 🎨 Designing and marketing since 2011 · 🤖 Building with about 20 Claude Code agents at a time · 🚀 [Agency Astro](https://agencyastro.com) and Launch Astro
 
-I started in 2011 designing logos on 99designs, and I've been making brands, websites and campaigns ever since. Along the way that's meant 13 animated artworks on the Sydney Opera House sails, a youth festival at Luna Park with 33 schools, and a learning platform that runs a national schools programme.
+I set the strategy, then build the websites, automations and AI systems that carry it out.
 
-These days I run [Agency Astro](https://agencyastro.com), a creative and digital agency, and Launch Astro, where I build software. Launch Astro has taken over most of my waking hours this year.
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat-square&logo=adobe&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
-## How I build
+## Start here
 
-I'm not a traditional developer. I decide what gets built, how it should work and whether it's right. A team of Claude Code agents writes the code.
+- 🗂️ **[ops-astro](https://github.com/LaunchAstro/ops-astro)**: an operations platform for organisations. Records, knowledge, tasks and agent work in one place, with a person signing off before anything big happens.
+- 🗺️ **[work-map](https://github.com/LaunchAstro/work-map)**: when 20 agents are building at once, it's hard to see where everything's up to. This draws the whole build as a map. Mac, Windows and Linux.
+- 📊 **[seat-gauge](https://github.com/LaunchAstro/seat-gauge)**: a little Mac window that shows which Claude or Codex subscription has room left, and when each one resets.
+- 📏 **[claude-context-bar](https://github.com/LaunchAstro/claude-context-bar)**: one line under every Claude Code pane. Context used, session cost and quota left.
 
-On a normal day I've got about 20 of them going. A lead agent hands out the work, the builders write their tests first, and a second AI model reviews every change before it merges. That's where most of the green on this page comes from.
+## What I'm building at Launch Astro
 
-## Things you can poke around in
+Most of this lives in private repos, which is where the green comes from.
 
-- **[ops-astro](https://github.com/LaunchAstro/ops-astro).** An operations platform for organisations: records, knowledge, tasks and agent work in one place, with a person signing off before anything big happens.
-- **[work-map](https://github.com/LaunchAstro/work-map).** When 20 agents are building at once, it's hard to see where everything's up to. This draws the whole build as a map.
-- **[seat-gauge](https://github.com/LaunchAstro/seat-gauge).** I run a few Claude and Codex subscriptions, so I built a little Mac window that shows which one has room left and when each resets.
-- **[claude-context-bar](https://github.com/LaunchAstro/claude-context-bar).** One line at the bottom of every Claude Code pane showing how full the context is, what the session's costing and how much quota is left.
+- 🧾 **Invoice Astro**: quoting and invoicing for service and hire businesses. Describe a job in plain English and an AI builder prices it from your catalogue.
+- 🏭 **Code Factory and Skill Factory**: how my agents work. A lead agent splits the job into lanes, builders write tests first, and a second model reviews every change before it merges. Skills get benchmarked before any agent uses them.
+- 📈 **Analytics pipeline**: pulls Google, Microsoft and Meta marketing data into one private database, so agents can answer "what's working" without guessing.
+- 🌐 **Website engine**: client sites built from a shared template and design system, each with its own brand.
+- 🏫 **School onboarding portal**: a Cloudflare Worker that signs up schools for a national leadership programme and sets up their seats in Thinkific.
 
-## Outside the code
+## What I do
 
-I produce melodic techno on a hybrid Eurorack and Ableton setup. It's the same itch as everything else here: building something from parts until it feels right.
+- **Marketing strategy.** Growth roadmaps and a customer journey from first look to referral.
+- **Websites, landing pages and product pages.** The design and the words that sell.
+- **Brand, graphic and print design.** Logos and guidelines, through to signage and ten printed books for one event.
+- **SEO and AI search.** Getting found on Google and in ChatGPT, Gemini and Perplexity.
+- **CRM and automation.** GoHighLevel, HubSpot and n8n, so no enquiry gets missed.
+- **Video and photo.** Shoot, edit, colour and sound.
 
-Happy to chat about any of it. [LinkedIn](https://www.linkedin.com/in/nathanmulligan) · [agencyastro.com](https://agencyastro.com)
+## Work I'm proud of
+
+- 🌊 13 animated artworks projected onto the **Sydney Opera House** sails for World Ocean Day.
+- 🎡 **Youth Ocean Carnival** at Luna Park: 52 projects in 10 months, with 33 secondary schools.
+- 🎓 A learning platform, app and community for **Global Leadership Network**'s schools programme, with 400+ video lessons.
+- 🏊 Brand, store and a projection for Olympic diver **Sam Fricker**.
+
+More at [agencyastro.com](https://agencyastro.com).
+
+## Activity
+
+![Nathan's GitHub activity](https://ghchart.rshah.org/745CEE/Nathan-Mulligan)
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanmulligan)
+[![Agency Astro](https://img.shields.io/badge/agencyastro.com-745CEE?style=flat-square)](https://agencyastro.com)
+
+## Random facts
+
+- 🎛️ I produce melodic techno on a hybrid Eurorack and Ableton setup.
+- 🎙️ I talk to my agents more than I type to them. Nearly everything starts as a voice note.
+- ✏️ It all started with logo contests on 99designs in 2011.
