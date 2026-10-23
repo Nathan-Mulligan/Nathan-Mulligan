@@ -19,7 +19,7 @@ I set the strategy, then build the websites, automations and AI systems that car
 
 Next to it is a **website engine** that builds client sites from one shared template and design system, each with its own brand.
 
-Everything else here, including the tools pinned below, exists to help build those two.
+Everything else here, including the tools listed above, exists to help build those two.
 
 ## What I do
 
