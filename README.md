@@ -21,6 +21,6 @@ On a normal day I've got about 20 of them going. A lead agent hands out the work
 
 ## Outside the code
 
-I produce melodic techno on a hybrid Ableton setup. It's the same itch as everything else here: building something from parts until it feels right.
+I produce melodic techno on a hybrid Eurorack and Ableton setup. It's the same itch as everything else here: building something from parts until it feels right.
 
 Happy to chat about any of it. [LinkedIn](https://www.linkedin.com/in/nathanmulligan) · [agencyastro.com](https://agencyastro.com)
