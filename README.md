@@ -1,21 +1,10 @@
 # Hey, I'm Nathan 👋
 
-📍 Townsville, North Queensland · 🎨 Designing and marketing since 2011 · 🤖 Building with about 20 Claude Code agents at a time · 🚀 [Agency Astro](https://agencyastro.com) and Launch Astro
+📍 Townsville, North Queensland · 🎨 Designing and marketing since 2011 · 🤖 Building with about 20 Claude Code agents at a time · 🚀 [Agency Astro](https://agencyastro.com) and [Launch Astro](https://github.com/LaunchAstro)
 
 I set the strategy, then build the websites, automations and AI systems that carry it out.
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe_CC-DA1F26?style=flat-square&logo=adobe&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
-![Ableton](https://img.shields.io/badge/Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white) ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=flat-square&logo=abletonlive&logoColor=white)
 
 ## Start here
 
@@ -24,7 +13,7 @@ I set the strategy, then build the websites, automations and AI systems that car
 - 📊 **[seat-gauge](https://github.com/LaunchAstro/seat-gauge)**: a little Mac window that shows which Claude or Codex subscription has room left, and when each one resets.
 - 📏 **[claude-context-bar](https://github.com/LaunchAstro/claude-context-bar)**: one line under every Claude Code pane. Context used, session cost and quota left.
 
-## What I'm building at Launch Astro
+## What I'm building at [Launch Astro](https://github.com/LaunchAstro)
 
 Most of this lives in private repos, which is where the green comes from.
 
@@ -36,12 +25,7 @@ Most of this lives in private repos, which is where the green comes from.
 
 ## What I do
 
-- **Marketing strategy.** Growth roadmaps and a customer journey from first look to referral.
-- **Websites, landing pages and product pages.** The design and the words that sell.
-- **Brand, graphic and print design.** Logos and guidelines, through to signage and ten printed books for one event.
-- **SEO and AI search.** Getting found on Google and in ChatGPT, Gemini and Perplexity.
-- **CRM and automation.** GoHighLevel, HubSpot and n8n, so no enquiry gets missed.
-- **Video and photo.** Shoot, edit, colour and sound.
+I'm the director of [Agency Astro](https://agencyastro.com), a creative and digital agency. Strategy, websites and landing pages with the copy, brand and print design, SEO and AI search, CRM and automation, and video.
 
 ## Work I'm proud of
 
@@ -54,7 +38,13 @@ More at [agencyastro.com](https://agencyastro.com).
 
 ## Activity
 
-![Nathan's GitHub activity](https://ghchart.rshah.org/745CEE/Nathan-Mulligan)
+Public view:
+
+![Nathan's public GitHub activity](https://ghchart.rshah.org/745CEE/Nathan-Mulligan)
+
+With private repos included (from my own dashboard, October 2026):
+
+![Contributions including private repos](assets/contributions-including-private.png)
 
 ## Connect
 
