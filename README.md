@@ -28,7 +28,7 @@ I'm the director of [Agency Astro](https://agencyastro.com), a creative and digi
 ## Work I'm proud of
 
 - 13 animated artworks projected onto the **Sydney Opera House** sails for World Ocean Day.
-- **Youth Ocean Carnival** at Luna Park: 52 projects in 10 months, with 33 secondary schools.
+- The **Youth Ocean Carnival** at Luna Park with 33 secondary schools, and a series of Youth Ocean Workshops.
 - A learning platform, app and community for **Global Leadership Network**'s schools programme, with 400+ video lessons.
 - Brand, store and a projection for Olympic diver **Sam Fricker**.
 
