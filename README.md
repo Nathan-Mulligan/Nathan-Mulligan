@@ -38,11 +38,7 @@ More at [agencyastro.com](https://agencyastro.com).
 
 ## Activity
 
-Public view:
-
-![Nathan's public GitHub activity](https://ghchart.rshah.org/745CEE/Nathan-Mulligan)
-
-With private repos included (from my own dashboard, October 2026):
+Including private repos, from my own dashboard (October 2026):
 
 ![Contributions including private repos](assets/contributions-including-private.png)
 
