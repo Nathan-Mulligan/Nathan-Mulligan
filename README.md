@@ -1,22 +1,26 @@
-# Nathan Mulligan
+# Hey, I'm Nathan
 
-Marketing lead from Townsville, Australia. I set the strategy, then build the websites, automations and AI systems that carry it out.
+I'm a marketer and builder from Townsville, up in North Queensland.
 
-I run [Agency Astro](https://agencyastro.com), a creative and digital agency, and Launch Astro, where I build software. Fifteen years of design, web and marketing work, from brand and print to projection on the Sydney Opera House sails.
+I started in 2011 designing logos on 99designs, and I've been making brands, websites and campaigns ever since. Along the way that's meant 13 animated artworks on the Sydney Opera House sails, a youth festival at Luna Park with 33 schools, and a learning platform that runs a national schools programme.
+
+These days I run [Agency Astro](https://agencyastro.com), a creative and digital agency, and Launch Astro, where I build software. Launch Astro has taken over most of my waking hours this year.
 
 ## How I build
 
-I'm an agentic engineer. I direct teams of Claude Code agents, about 20 at a time: a lead agent splits the work into parallel lanes, builder agents work test-first, and a second model reviews every change before it merges. Most of the green on this page comes from that system.
+I'm not a traditional developer. I decide what gets built, how it should work and whether it's right. A team of Claude Code agents writes the code.
 
-## Public projects
+On a normal day I've got about 20 of them going. A lead agent hands out the work, the builders write their tests first, and a second AI model reviews every change before it merges. That's where most of the green on this page comes from.
 
-- [ops-astro](https://github.com/LaunchAstro/ops-astro): an operations platform for organisations: records, knowledge, tasks and agent work, with a person signing off before anything consequential happens.
-- [work-map](https://github.com/LaunchAstro/work-map): a desktop map of a software build tracked in GitHub, for people building with AI coding agents.
-- [seat-gauge](https://github.com/LaunchAstro/seat-gauge): a Mac window that shows usage and reset times across several Claude Code and Codex subscriptions.
-- [claude-context-bar](https://github.com/LaunchAstro/claude-context-bar): a status line for Claude Code showing context, cost and quota on one line.
+## Things you can poke around in
 
-## Also
+- **[ops-astro](https://github.com/LaunchAstro/ops-astro).** An operations platform for organisations: records, knowledge, tasks and agent work in one place, with a person signing off before anything big happens.
+- **[work-map](https://github.com/LaunchAstro/work-map).** When 20 agents are building at once, it's hard to see where everything's up to. This draws the whole build as a map.
+- **[seat-gauge](https://github.com/LaunchAstro/seat-gauge).** I run a few Claude and Codex subscriptions, so I built a little Mac window that shows which one has room left and when each resets.
+- **[claude-context-bar](https://github.com/LaunchAstro/claude-context-bar).** One line at the bottom of every Claude Code pane showing how full the context is, what the session's costing and how much quota is left.
 
-Websites, SEO and AI search, CRM and automation, brand and print design, video. I produce melodic techno on a hybrid Ableton setup.
+## Outside the code
 
-[LinkedIn](https://www.linkedin.com/in/nathanmulligan) · [agencyastro.com](https://agencyastro.com)
+I produce melodic techno on a hybrid Ableton setup. It's the same itch as everything else here: building something from parts until it feels right.
+
+Happy to chat about any of it. [LinkedIn](https://www.linkedin.com/in/nathanmulligan) · [agencyastro.com](https://agencyastro.com)
