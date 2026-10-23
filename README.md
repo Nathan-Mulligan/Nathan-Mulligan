@@ -15,13 +15,11 @@ I set the strategy, then build the websites, automations and AI systems that car
 
 ## What I'm building at [Launch Astro](https://github.com/LaunchAstro)
 
-Most of this lives in private repos, which is where the green comes from.
+**[Ops Astro](https://github.com/LaunchAstro/ops-astro)** is the main thing: one place for an organisation's records, knowledge, tasks and AI agent work, with a person signing off before anything big happens, and the organisation keeping control of its data.
 
-- **Invoice Astro**: quoting and invoicing for service and hire businesses. Describe a job in plain English and an AI builder prices it from your catalogue.
-- **Code Factory and Skill Factory**: how my agents work. A lead agent splits the job into lanes, builders write tests first, and a second model reviews every change before it merges. Skills get benchmarked before any agent uses them.
-- **Analytics pipeline**: pulls Google, Microsoft and Meta marketing data into one private database, so agents can answer "what's working" without guessing.
-- **Website engine**: client sites built from a shared template and design system, each with its own brand.
-- **School onboarding portal**: a Cloudflare Worker that signs up schools for a national leadership programme and sets up their seats in Thinkific.
+Next to it is a **website engine** that builds client sites from one shared template and design system, each with its own brand.
+
+Everything else here, including the tools pinned below, exists to help build those two.
 
 ## What I do
 
