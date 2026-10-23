@@ -1,6 +1,6 @@
 # Hey, I'm Nathan 👋
 
-Townsville, North Queensland · Designing and marketing since 2011 · [Agency Astro](https://agencyastro.com) and [Launch Astro](https://github.com/LaunchAstro)
+Designing and marketing since 2011 · [Agency Astro](https://agencyastro.com) and [Launch Astro](https://github.com/LaunchAstro)
 
 I set the strategy, then build the websites, automations and AI systems that carry it out.
 
