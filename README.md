@@ -55,4 +55,4 @@ With private repos included (from my own dashboard, October 2026):
 
 - 🎛️ I produce melodic techno on a hybrid Eurorack and Ableton setup.
 - 🎙️ I talk to my agents more than I type to them. Nearly everything starts as a voice note.
-- 🧊 I first opened Blender in high school, around 2008. Started doing design work for clients in 2011.
+- 🧊 I first opened Blender in high school, back in 2007 or 2008. Started doing design work for clients in 2011.
