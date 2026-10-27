@@ -9,6 +9,7 @@ I set the strategy, then build the websites, automations and AI systems that car
 ## Start here
 
 - **[ops-astro](https://github.com/LaunchAstro/ops-astro)**: an operations platform for organisations. Records, knowledge, tasks and agent work in one place, with a person signing off before anything big happens.
+- **[code-factory](https://github.com/LaunchAstro/code-factory)**: how I build software with AI agents. Tests first, an independent review and a merge gate on every change, so it comes out solid whoever is driving.
 - **[work-map](https://github.com/LaunchAstro/work-map)**: when 20 agents are building at once, it's hard to see where everything's up to. This draws the whole build as a map. Mac, Windows and Linux.
 - **[seat-gauge](https://github.com/LaunchAstro/seat-gauge)**: a little Mac window that shows which Claude or Codex subscription has room left, and when each one resets.
 - **[claude-context-bar](https://github.com/LaunchAstro/claude-context-bar)**: one line under every Claude Code pane. Context used, session cost and quota left.
